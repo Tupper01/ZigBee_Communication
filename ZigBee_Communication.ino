@@ -53,5 +53,5 @@ void HueColor(unsigned char Quality){
 /****************************************************/  
 
 void loop() {
-
+  
 }

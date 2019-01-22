@@ -1,1 +1,1 @@
-A simple program that passes a control frames to a ZigBee that passes those frames to a Philips Hue Bloom. At the moment it is possible to toggle the lamp and change colour.
+A simple program that passes a control frame to a ZigBee that passes the frame to a Philips Hue Bloom. At the moment it is possible to toggle the lamp and change color (Green, yellow and red). Please refer to the ZCL Library to add other colors. The color can be changed by adding another value on byte 27-30 in the frame. Please notice that the color should be in the xy-format. 
